@@ -86,7 +86,7 @@ is_constant = True
 
 # Functions and step sizes to evaluate
 functions = [1, 2, 3, 4]
-step_sizes = [0.001, 0.1, 1]
+step_sizes = [0.0001, 0.001, 0.1, 1]
 
 # Evaluate the steepest descent method for each function and step size
 for functionNumber in functions:
